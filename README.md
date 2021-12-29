@@ -29,6 +29,6 @@ Just edit, `/etc/.conky/weather.conf`.<br/>
 
 Same as time widget, but there is nothing much to change.<br/>
 You could obviously change format of displayed time.<br/>
-Using this: [strftime manual]https://www.php.net/manual/en/function.strftime.php<br/>
+Using this: [strftime manual](https://www.php.net/manual/en/function.strftime.php)<br/>
 
-Base for weather widget was copied from: [Stevica Stojković]https://github.com/sstojkovic/eleg-weather-conky
+Base for weather widget was copied from: [Stevica Stojković](https://github.com/sstojkovic/eleg-weather-conky)
