@@ -19,7 +19,7 @@ Only one widget must be configured, that is weather widget.<br/>
 Go to: `/home/<user name>/.conky/weather/` - in that folder, there are many bash scripts. You need to edit only one of them, that is `weather.sh`.<br/>
 There are two variables: `API_KEY`, and `LOCATION_ID`.<br/>
 
-**API_KEY **- which is reference to your account on openweathermap.org.<br/>
+**API_KEY** - which is reference to your account on openweathermap.org.<br/>
 **LOCATION_ID** - your location ID on openweathermap.org.
 
 ## Additional notes.
