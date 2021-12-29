@@ -7,6 +7,7 @@ Conky widgets for Ubuntu Budgie 21.10 x86_64.
 ## How to install/use?
 
 Unpack files from repository using:
+
     tar –xvzf bonky.tar.gz –C $HOME/
     sudo tar –xvzf bonky-configs.tar.gz –C /etc/.conky/
 
