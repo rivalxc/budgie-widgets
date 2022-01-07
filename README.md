@@ -1,4 +1,4 @@
-# Bonky (Conky widgets) for Ubuntu Budgie 21.10
+# Desktop wigdets for Ubuntu Budgie 21.10
 Conky widgets for Ubuntu Budgie 21.10 x86_64.
 ![Preview image](https://raw.githubusercontent.com/lyan-pi/bonky-21.10/main/Screenshot%20from%202021-12-29%2019%3A55%3A38.png)
 
